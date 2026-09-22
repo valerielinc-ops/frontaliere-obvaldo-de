@@ -1,6 +1,6 @@
 {"type":"header","manifestVersion":3,"format":"jsonl","locale":"de"}
 {"type":"kind","kind":"active-job","templateVersion":"active-job@1","sourceVersion":"input@1","state":"live"}
-{"path":"de/jobs-in-obwalden/accountant-administrator-80-100-m-w-d-sika-ch/","hash":"02f82c9c0a832fcd3ab86966e0d20a310ffa846cbac723c22483c6e293a1299b"}
+{"path":"de/jobs-in-obwalden/accountant-administrator-80-100-m-w-d-sika-ch/","hash":"8eda9d853147013d05730f32e9136a32a32e0569aacbdd4ce3ce33e170416de7"}
 {"path":"de/jobs-in-obwalden/allrounder-in-verkauf-genossenschaft-migros-luzern-sarnen-qil1ya/","hash":"2d15cd832c99422092db83470506bd42e7ff90ca77c29135f8005b481920c822"}
 {"path":"de/jobs-in-obwalden/allrounder-in-verkauf-im-stundenlohn-genossenschaft-migros-luzern-alpnach-cj030b/","hash":"fc5be1c3a287ef38690104f0bd0b9f2350b2791390f0b4214e479cf75cd2cd6b"}
 {"path":"de/jobs-in-obwalden/allrounder-verkauf-m-w-d-20-40-lidl-svizzera-sarnen-vat7e7/","hash":"6b373728666f4839d651256900e7f58a50f19cede576ee988a84994594725f94"}
@@ -51,7 +51,7 @@
 {"path":"de/jobs-in-obwalden/lehrstelle-fachfrau-fachmann-hauswirtschaft-a-efz-2027-ksow-sarnen/","hash":"703c6caf42af75473ce78db2daab318c67e4a9e5073f5455c42e0f9bd3d79c95"}
 {"path":"de/jobs-in-obwalden/lehrstelle-heizungsinstallateur-in-efz-alle-bkw-ch/","hash":"acf7a78c2992a4957c727c82aade9cf4498fc4e55d8538a315c4d8dde83c8499"}
 {"path":"de/jobs-in-obwalden/lehrstelle-kochin-koch-efz-2027-kantonsspital-obwalden-sarnen/","hash":"0e25e61fefa86a285ea0498f4dcbc91392817e7df913bb0f36258e3b598d2365"}
-{"path":"de/jobs-in-obwalden/lehrstelle-zum-polymechaniker-infuz-2027-sika-sarnen-obwalden/","hash":"16108a58efdbdb59524a58478de993eea3d6703e82d68fd6942ac480add05f47"}
+{"path":"de/jobs-in-obwalden/lehrstelle-zum-polymechaniker-infuz-2027-sika-sarnen-obwalden/","hash":"9bfd060a2201cd3a83f24a8cddb88bc09b0ce9efcac9b292c8529f7f5a512fb9"}
 {"path":"de/jobs-in-obwalden/leitende-r-arzt-arztin-innere-medizin-schwerpunkt-geriatrie-ksow-sarnen/","hash":"2de52999a6678a3e6d34a417b28db0a031f7dbb6a706f1e642a7199a4e401761"}
 {"path":"de/jobs-in-obwalden/logistiker-in-hilfsarbeiter-in-mit-manueller-lagerarbeit-sarnen-obwalden-stellentreff-ch/","hash":"346b9dc6e663e4043f2e144a539a7548294ad4cb9bea5277735acedaeb323dec"}
 {"path":"de/jobs-in-obwalden/metzger-in-fleischfachfrau-fleischfachmann-coop-engelberg-obwalden-r4pqol/","hash":"691f83ae281545fcfc88a28e5e00fa431141b00d53599ccf9b0fc6735e63500f"}
@@ -790,7 +790,7 @@
 {"path":"de/jobs-in-obwalden/allrounder-in-vendita-genossenschaft-migros-luzern-sarnen-qil1ya","hash":"4734f1c28054a55f3d4098d305f1aebc71f995c4ae30a2b731761528a0cc3a8a"}
 {"path":"de/jobs-in-obwalden/allrounder-in-vendita-im-stundenlohn-genossenschaft-migros-luzern-alpnach-cj030b","hash":"37867a56069c82347e1d31ea057cb235134fa1715a9fce26c8dee2a6ae840e76"}
 {"path":"de/jobs-in-obwalden/allrounder-vendita-m-w-d-20-40-lidl-svizzera-sarnen-vat7e7","hash":"d9c99c3e55aceb7089712cc5a06f6889ba51a0566fdc25fca62ac1677e851459"}
-{"path":"de/jobs-in-obwalden/amministratore-contabile-80-100-m-f-d-sika-sarnen-obwalden","hash":"efc9f5bbef2b5d667a1f11d5fe05a24924f2b14fd7ae73a39be74e28baaf8a29"}
+{"path":"de/jobs-in-obwalden/amministratore-contabile-80-100-m-f-d-sika-sarnen-obwalden","hash":"e928148327ccefc6672a19ac1520ff060978d28f304aafdaa59a0321eda9b34c"}
 {"path":"de/jobs-in-obwalden/anlagenfuhrer-m-w-d-extrusionslinien-process-operatore-m-w-d-sika-sarnen","hash":"61a3ebfe665d7b377c279a010779b41a2ab70a6229f738170c38a3beebbe18f6"}
 {"path":"de/jobs-in-obwalden/anlagenfuhrer-recycling-m-w-d-process-operatore-recycling-m-w-d-sika-sarnen","hash":"c9659090e86ba76554d94b3778a4fc5eed8c9ded2683e1c63555fc9a639e6332"}
 {"path":"de/jobs-in-obwalden/apprendistato-chef-cuoco-efz-2027-kantonsspital-obwalden-sarnen","hash":"806e5ad9fbe35dd1a5ddc4c3caf2f82704ac0a54501b8ca2e1ec5a3b5421fd66"}
@@ -802,7 +802,7 @@
 {"path":"de/jobs-in-obwalden/apprendistato-come-laborant-in-cfc-2027-specializzazione-chemie-sika-sarnen","hash":"239a61b07809e28e964896ea0032a510c56f4b5116b955610cde4e207eb4d22d"}
 {"path":"de/jobs-in-obwalden/apprendistato-come-logistiker-in-cfc-2027-100-w-m-d-ruag-ag-alpnach","hash":"faf795036e16225af690e94e2944698748cead492d554d4c74e160158dd3ef29"}
 {"path":"de/jobs-in-obwalden/apprendistato-come-polymechaniker-in-cfc-2027-100-m-w-d-ruag-ag-alpnach","hash":"22564dd240301193db38a1848f0003ae8d3c90c21677c55291d4e756ae7d16b0"}
-{"path":"de/jobs-in-obwalden/apprendistato-come-polymechaniker-in-cfc-2027-sika-sarnen","hash":"e7a262f468cc6e65157650f995427f064cfb7b64058d5616fcaf3b24dbca6e2b"}
+{"path":"de/jobs-in-obwalden/apprendistato-come-polymechaniker-in-cfc-2027-sika-sarnen","hash":"76a7916070997644c6081f935cf7f095b9e60a0d6c2be522d70fb6eb455d5924"}
 {"path":"de/jobs-in-obwalden/apprendistato-detailhandelsfachfrau-detailhandelsfachmann-cfc-m-w-d-landi-unterwalden-ag-sarnen","hash":"a9a37d877920e69d803c3842940597097ab60dca722ffe0adf5347c3d2c19c1f"}
 {"path":"de/jobs-in-obwalden/apprendistato-di-specializzazione-pulizia-specialistica-a-efz-2027-kantonsspital-obwalden-sarnen","hash":"bca4b577590db6dab52ef5cdfaa973f1000c2dce8ce47f05ce97e57afc7fe860"}
 {"path":"de/jobs-in-obwalden/apprendistato-heizungsinstallateur-in-cfc-alle-bkw-sarnen","hash":"69022384345163f3c82db888419f53b573fe8380b859a05c7851758a3775777b"}
@@ -908,7 +908,7 @@
 {"path":"de/jobs-in-obwalden/kundenberater-m-w-d-versicherung-konolfingen-teilzeit-vollzeit-helvetia-konolfingen","hash":"b46e7652c33844b83f0e0dc1480fcdc2e0178b5db801669180b764fad6858d2c"}
 {"path":"de/jobs-in-obwalden/kundenberater-w-m-d-versicherungen-brig-teilzeit-vollzeit-helvetia-brig","hash":"17a9d49e95cbfd141147e1422052a56ece6dfc5d75f7f7da3375a5ad41fb1d62"}
 {"path":"de/jobs-in-obwalden/lehrstelle-als-kaufmann-frau-efz-2027-sika-ch","hash":"c0d8143e8e8d033a746dcfe7e6ee5593301b7e4e3ad836e7ee60c927208c19d2"}
-{"path":"de/jobs-in-obwalden/lehrstelle-als-polymechaniker-in-efz-2027-sika-ch","hash":"602d10f14d85c8109bf16ca0b71fe265503ca9c957a09ae6750007e51d1d979e"}
+{"path":"de/jobs-in-obwalden/lehrstelle-als-polymechaniker-in-efz-2027-sika-ch","hash":"58bbf0be980305833732fee82658aed82966ba6c004283c6273a8086b6173189"}
 {"path":"de/jobs-in-obwalden/lehrstelle-heizungsinstallateur-in-alle-bkw-ch","hash":"3ade09efd7a36c7996464ecf88894d3c7977e699210953a0856ed32dc920940b"}
 {"path":"de/jobs-in-obwalden/lehrstelle-kochin-koch-efz-2027-ksow-sarnen","hash":"d9b8a92978cf352abe4ad3f774789b62b65ffb1b36e39e44bb3135649bab7f2f"}
 {"path":"de/jobs-in-obwalden/maler-in-fur-kundenmalerei-und-spritz-und-lackierarbeiten-sarnen-obwalden-stellentreff-ch","hash":"394f2642cff8a264cb4d4df21b0b7138b3467f85234a81f12c21b74e626973b3"}
@@ -965,7 +965,7 @@
 {"path":"de/jobs-in-obwalden/verkaufer-in-kassen-services-coop-sarnen-obwalden","hash":"b2a99a65f7d4eb73f7179ead211a24ea3668dfd5a1331386d22221e20600c0c5"}
 {"path":"de/jobs-in-obwalden/verkaufer-in-kassen-services-coop-sarnen-obwalden-rp306c","hash":"4b84fb140c5356e6459b97826f4ed752c5fea53b7e17ae5736a77c77873ea11e"}
 {"type":"kind","kind":"related-search-cluster","templateVersion":"related-search-cluster@1","sourceVersion":"input@1","state":"live"}
-{"path":"de/jobs-in-obwalden/suche-allrounder-verkauf-m-w-d-20-sarnen/","hash":"ca7e2b97c854fe761843cb84b95a6574c47b091b6665349b5ae3eb66c2ce39a8"}
+{"path":"de/jobs-in-obwalden/suche-allrounder-verkauf-m-w-d-20-sarnen/","hash":"9acad4a7b1b00e40ec15ca4855e1c9d26943a0659f32052a7e9dac5e061f9709"}
 {"path":"de/jobs-in-obwalden/suche-angebote-sarnen/","hash":"2a93fc780fd54b787898f1616f58d1e3b88d690bbcef8fb4a9e11c52844ae3bc"}
 {"path":"de/jobs-in-obwalden/suche-ankommen-sarnen-obwalden/","hash":"ac101fd2d5d61db10c80cea0ae0123471616138a39768f3e6e08ea904e42105c"}
 {"path":"de/jobs-in-obwalden/suche-anlagen-sarnen-obwalden/","hash":"1a9157aa6ddec66a0dc423f84aa8ca9663dfd3e6b0c4899d8d7d19c96e8efbfd"}
@@ -1006,19 +1006,19 @@
 {"path":"de/jobs-in-obwalden/suche-dafur-sarnen-obwalden/","hash":"4e61a96e753b549ebf9b24bdb45a737efbd96690c802991fc50665ceef730c5a"}
 {"path":"de/jobs-in-obwalden/suche-dass-sarnen-obwalden/","hash":"4e36d1823f946dd31155fe629387b7fe53d88109478efa0ecd4a10edc08a4e0e"}
 {"path":"de/jobs-in-obwalden/suche-dauer-sarnen/","hash":"e9302f520aceb212ee320f1bd5ad3d082833b93f7441df0b00158aa4ed1d1c30"}
-{"path":"de/jobs-in-obwalden/suche-dein-kerns/","hash":"29919436d11b6faf557f79932b05f8c80d2f469a685580f9780af2a04bb0dd32"}
+{"path":"de/jobs-in-obwalden/suche-dein-kerns/","hash":"25b843044d977fb84eed977caca19bd113d50eaff7254fbfc16894f620ac3a21"}
 {"path":"de/jobs-in-obwalden/suche-dein-sarnen/","hash":"44e197e13b2b6048379e5ba5d274c6df954c6fb84c4fe11dc3fd351da67bb3c3"}
 {"path":"de/jobs-in-obwalden/suche-detailhandel-engelberg/","hash":"7cb67b2c2da00eb44a07a50a6ea3a6392c446772d248892172b6444ce80b7a66"}
 {"path":"de/jobs-in-obwalden/suche-detailhandel-sarnen/","hash":"b72a14b96f794f2a1a01776b3a01b8de079e09e091870a96fe164ab481b7da31"}
-{"path":"de/jobs-in-obwalden/suche-detailhandelsfachfrau-chur/","hash":"775adb6878fd9d2c015dd35c52d7646ef7196bc6673911aa57d24128680c9531"}
+{"path":"de/jobs-in-obwalden/suche-detailhandelsfachfrau-chur/","hash":"b3f7af9712e562acb561bd1ba8b945bbbd027a02d44f7cafe1b0f35e4fe37c17"}
 {"path":"de/jobs-in-obwalden/suche-detailhandelsfachfrau-detailhandelsfachmann-grunbereich-w-m-d/","hash":"72137c65336a81e9903a7138062c55b94fddfe41f059af1d59c7406784e66de0"}
 {"path":"de/jobs-in-obwalden/suche-deutsch-engelberg/","hash":"2e93b11d5f22035468d50f2581ceaf66641b7f77a535fba76ce49eb975313463"}
 {"path":"de/jobs-in-obwalden/suche-dich-engelberg/","hash":"22a0406edcc8b5da9f4b43257618af23123a601c1171c4433be3028333ab83e6"}
 {"path":"de/jobs-in-obwalden/suche-dich-sarnen-obwalden/","hash":"9007d8f32c468ade1dfb9f6c6afc20af9b9a0ea6d056af3fcf1537fd9f8d1be5"}
 {"path":"de/jobs-in-obwalden/suche-dich-sarnen/","hash":"f1c60659e5b14a01bc1778bf330227435a9c9e048f10efe5919d459cbc357b7b"}
-{"path":"de/jobs-in-obwalden/suche-dich-wald-zh/","hash":"0e28ec0c5ea13e831aff200a9381faa5988ead8c60a2ab50d36431e62541e13b"}
+{"path":"de/jobs-in-obwalden/suche-dich-wald-zh/","hash":"782bfca2e421a097e7998fe5e42372e5a7b238d309853dd6b6ed6bdeee1ad9dc"}
 {"path":"de/jobs-in-obwalden/suche-dipl-fachperson-operationstechnik-hf-a-50-kantonsspital-obwalden/","hash":"13893294b5d1b64730b54a302a2b01f6e0590d9aba4c18a25f63132f13c0aba5"}
-{"path":"de/jobs-in-obwalden/suche-dipl-fachperson-operationstechnik-hf-a-50-sarnen/","hash":"897022cc3b3e9002faf21282665ed175dff81830ae17bec0ce9ff0f3ef19e760"}
+{"path":"de/jobs-in-obwalden/suche-dipl-fachperson-operationstechnik-hf-a-50-sarnen/","hash":"c1af34e1a02918262d22fb727b21448f98f891081f583748937b77cd9aba7fd4"}
 {"path":"de/jobs-in-obwalden/suche-dipl-pflegefachperson-hf-fh-im-stundenlohn-requirements/","hash":"773de821d36affaf7e2a7d768658d67e85e0893ae9f11b349e12ec283e042f41"}
 {"path":"de/jobs-in-obwalden/suche-dipl-pflegefachperson-hf-fh-im-stundenlohn-salary-switzerland/","hash":"526c66dcc25f80a8cd6922ac301595f8ed33f6df62d48987d45e968a6b5e4124"}
 {"path":"de/jobs-in-obwalden/suche-dipl-pflegefachperson-hf-fh-im-stundenlohn/","hash":"667636e3dc651b0b94e317cc05630617cd8d7f0ef311ad1b3331e546e4f69650"}
@@ -1132,7 +1132,7 @@
 {"path":"de/jobs-in-obwalden/suche-quereinsteiger-in-als-netzelektriker-in-efz-alle-bkw/","hash":"802871261ab0548fa2f84bf5346d263e5f7970b03f77f85241d1944d2fede925"}
 {"path":"de/jobs-in-obwalden/suche-quereinsteiger-in-als-netzelektriker-in-efz-alle-kerns/","hash":"2881f8b1991ab95ccbc87432b35643377ad653ef4c9bc4351388d4ee03af5388"}
 {"path":"de/jobs-in-obwalden/suche-quereinsteiger-in-als-netzelektriker-in-efz-alle/","hash":"5d00e8cb8a4f1d78ed88f581288895c688bb008b8d445d345298604aaf6046d8"}
-{"path":"de/jobs-in-obwalden/suche-quereinsteiger-in-bereichsleiter-in/","hash":"69cb1d5938cd830b31d6566c004f40a8a9f11635b13ea73dd7c7db64008e45a7"}
+{"path":"de/jobs-in-obwalden/suche-quereinsteiger-in-bereichsleiter-in/","hash":"f0421b27d3457c55893baa9db35d8d5575c9d9ebe626863c36e6b9d9b2d5a7d0"}
 {"path":"de/jobs-in-obwalden/suche-rabatt-alpnach/","hash":"d0044af8f5511db956c1ad9743426754a7af1ea31f75c9fe0a9d110477c2ee38"}
 {"path":"de/jobs-in-obwalden/suche-rabatt-engelberg/","hash":"c6f0eca6087f121bab2e9b876845352d94100dc4097a14f7812de0858d263cc8"}
 {"path":"de/jobs-in-obwalden/suche-rabatt-kerns/","hash":"c04d775828cb51b7d97ac53b5dcf1b1ebcb3ca460ffe8302c8698ad916e99520"}
@@ -1148,7 +1148,7 @@
 {"path":"de/jobs-in-obwalden/suche-schweiz-sarnen/","hash":"347e2836666d1d0364794625355b8f20f1d3374f03cfb4c3d33b1b0ccd8388de"}
 {"path":"de/jobs-in-obwalden/suche-selbstandige-sarnen/","hash":"760c4157d25c87c12e5b96ca4ceb180ffd1b55b85f0fb8de43d4b63683fd96fe"}
 {"path":"de/jobs-in-obwalden/suche-sorgst-sarnen-obwalden/","hash":"5c1d84570ec5d4cff7939e1b387e7e903bea81c67c31e00de397b6abf367fa91"}
-{"path":"de/jobs-in-obwalden/suche-sozialpadagogin-w-m-d-50-sarnen/","hash":"ca67fc6b71b88836b26c0456f378c316a7cd395648418454c3ddf771ec2dda3e"}
+{"path":"de/jobs-in-obwalden/suche-sozialpadagogin-w-m-d-50-sarnen/","hash":"80eba869937c328fb8ece3b675150ada76d2f4ce7b6b407615eec61b5f756a69"}
 {"path":"de/jobs-in-obwalden/suche-spitex-nidau/","hash":"c2092fd6183f3cd0fd75b7c815c2fababd4c315f38a4c6fc037b6ce1e5415d5f"}
 {"path":"de/jobs-in-obwalden/suche-storungsfrei-sarnen-obwalden/","hash":"7dd847a164451e7a3477f0ea83e9c68fae8540e2df1107c778383219048eb21f"}
 {"path":"de/jobs-in-obwalden/suche-stv-filialleiter-stv-filialleiterin-m-w-d-80-sarnen/","hash":"7ea2825a976165277e5dd94ff4cb239fd9d5a220f566b1cbabc778ad6711d65f"}
@@ -1201,7 +1201,7 @@
 {"path":"de/jobs-in-obwalden/suche-wochen-alpnach/","hash":"067318097d5428b44886bef17632c85e7342b750b118dad90cab54cd4c5d9d80"}
 {"path":"de/jobs-in-obwalden/suche-wochen-engelberg/","hash":"746aae51f6c27ef02fca8fd57746eedfc78750b0d9f33acf36f60b81d648b9de"}
 {"path":"de/jobs-in-obwalden/suche-wochen-giswil/","hash":"0e1e18e79aa5c87e2f48d2f519f3e5d38d7b68a71adab437c9b62d0872bcc5ed"}
-{"path":"de/jobs-in-obwalden/suche-wochen-kerns/","hash":"9e3305720506b795d2ba9e80a8dd3e24c8482dfc1549a46c0cea880de85646ea"}
+{"path":"de/jobs-in-obwalden/suche-wochen-kerns/","hash":"9b6b4acdd40627d8dd48004f32fedcfe006d0d9abbd0c15e27ccea836bad6d99"}
 {"path":"de/jobs-in-obwalden/suche-wochen-wiler-lotschen/","hash":"1c9280d0f849ba9de4dce6cfe37dd89518bed83d33bccbb5ef332feb8e1bbdae"}
 {"path":"de/jobs-in-obwalden/suche-zusammenarbeit-wald-zh/","hash":"d48ff834a4a876cd8d7c3abb6854d0e81c2f8fd586afb3613503778c47c0db7d"}
 {"path":"de/jobs-in-obwalden/suche-zwar-engelberg/","hash":"12c6093f5893d62b023d9256355e72a8bf0b8c2fe2cbc1b66c389b904d2a23da"}
